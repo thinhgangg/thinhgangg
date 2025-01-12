@@ -8,36 +8,34 @@
 
 <h2 align="center">📊 My GitHub Stats</h2>
 
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=thinhgangg&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Phuc Thinh's GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thinhgangg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Phuc Thinh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thinhgangg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=thinhgangg&theme=dracula" height="150" alt="GitHub Streak" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhgangg&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
-  </a>
-</p>
 
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/maiphucthinh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/maithinhh/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/thinhgangg/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.youtube.com/@thinhgangg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="mailto:phucthinhmai00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</p>
+</div>
