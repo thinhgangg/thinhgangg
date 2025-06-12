@@ -23,19 +23,19 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/maiphucthinh/" target="_blank">
+  <a href="https://www.linkedin.com/in/maiphucthinh/" target="_blank" style="text-decoration:none;>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/maithinhh/" target="_blank">
+  <a href="https://www.facebook.com/maithinhh/" target="_blank" style="text-decoration:none;>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/thinhgangg/" target="_blank">
+  <a href="https://www.instagram.com/thinhgangg/" target="_blank" style="text-decoration:none;>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.youtube.com/@thinhgangg" target="_blank">
+  <a href="https://www.youtube.com/@thinhgangg" target="_blank" style="text-decoration:none;>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="mailto:phucthinhmai00@gmail.com" target="_blank">
+  <a href="mailto:phucthinhmai00@gmail.com" target="_blank" style="text-decoration:none;>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
