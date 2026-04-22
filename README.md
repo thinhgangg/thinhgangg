@@ -1,7 +1,11 @@
-<h1 align="center">Hi, I'm Phuc Thinh 👋</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Phuc+Thinh+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  🎓 Danang University of Science and Technology | 💻 Information Technology | 📚 Lifelong Learner
+  DUT IT Student | Software Developer | NextStepAI Creator
 </p>
 
 ---
@@ -39,8 +43,19 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thinhgangg&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thinhgangg&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhgangg&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thinhgangg&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhgangg&layout=compact&theme=tokyonight&hide_border=false" />
+
+  <br>
+
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thinhgangg&theme=tokyonight&hide_border=false" />
+  </a>
+
+  ![](https://komarev.com/ghpvc/?username=thinhgangg&color=3b82f6&style=flat-square&label=PROFILE+VIEWS)
+  
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
