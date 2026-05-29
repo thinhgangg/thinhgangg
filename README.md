@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  DUT IT Student | Software Developer | NextStepAI Creator
+  DUT IT Student | Software Developer | Android & Web Development
 </p>
 
 ---
