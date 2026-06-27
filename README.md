@@ -21,10 +21,10 @@ Mai Phuc Thinh · Full-stack Developer
 ┌──(thinhgangg㉿dev)-[~]
 └─$ cat stack.txt
 Languages  : JavaScript · TypeScript
-Frontend   : React · Next.js
-Backend    : NestJS · Express
+Frontend   : React · Next.js · Tailwind CSS
+Backend    : Node.js · NestJS · Express
 Database   : PostgreSQL · MySQL · MongoDB · Supabase
-Tools      : Docker · Postman · Git
+Tools      : Git · Docker · Postman 
 
 ┌──(thinhgangg㉿dev)-[~]
 └─$ ./status.sh
