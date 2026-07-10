@@ -34,21 +34,3 @@ It's not a bug, it's a feature.
 └─$ █
 ```
 ---
-
-## GitHub Stats
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thinhgangg&show_icons=false&theme=github_dark_dimmed&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhgangg&layout=compact&theme=github_dark_dimmed&hide_border=true" />
-
-  <br>
-
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thinhgangg&theme=github_dark_dimmed&hide_border=true" />
-  </a>
-
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=thinhgangg&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</div>
