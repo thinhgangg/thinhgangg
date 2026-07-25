@@ -16,7 +16,11 @@
 ```bash
 ┌──(thinhgangg㉿dev)-[~]
 └─$ whoami
-Mai Phuc Thinh · Full-stack Developer
+Mai Phuc Thinh
+
+┌──(thinhgangg㉿dev)-[~]
+└─$ cat role.txt
+Full-stack Developer
 
 ┌──(thinhgangg㉿dev)-[~]
 └─$ cat stack.txt
